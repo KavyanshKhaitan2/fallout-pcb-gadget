@@ -1,6 +1,8 @@
 # Fallout PCB Gadget!!!
 This is a project for Day 2 of Fallout!!!
 
+This is just a cool keychain that spells out "Hi!"
+
 ## BOM
 | Sl. | Part name           | Qty |
 |-----|---------------------|-----|
@@ -18,3 +20,6 @@ This is a project for Day 2 of Fallout!!!
 ## 3D View
 <img width="1080" height="828" alt="image" src="https://github.com/user-attachments/assets/f5711a8c-1b8f-4f42-9ceb-a3f8b1ea7d0b" />
 <img width="957" height="731" alt="image" src="https://github.com/user-attachments/assets/692d6d87-6eac-4c7c-a63b-903363838628" />
+
+## What is my slack username?
+Oh! I am Kavyansh Khaitan (@kavyansh.) on the Slack!!!
